@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="718ebb4c687f43348fa575cd60040469" Name="Diagram1" ZoomLevel="93">
+        <EntityTypeShape EntityType="ShoppingProjectEntities.Categories" Width="1.5" PointX="3.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoppingProjectEntities.Comments" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoppingProjectEntities.Favorites" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoppingProjectEntities.Members" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoppingProjectEntities.Messages" Width="1.5" PointX="3" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoppingProjectEntities.Products" Width="1.5" PointX="6" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoppingProjectEntities.Sales" Width="1.5" PointX="8.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoppingProjectEntities.sysdiagrams" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="ShoppingProjectEntities.FK_Products_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoppingProjectEntities.FK_Favorites_Members" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoppingProjectEntities.FK_Favorites_Things" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoppingProjectEntities.FK_Messages_Members" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoppingProjectEntities.FK_Messages_Members1" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoppingProjectEntities.FK_Products_Members" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoppingProjectEntities.FK_Sales_Members" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoppingProjectEntities.FK_Sales_Members1" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoppingProjectEntities.FK_Sales_Things" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

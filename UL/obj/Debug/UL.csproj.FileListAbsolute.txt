@@ -1,0 +1,188 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\ApplicationInsights.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\csc.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\vbc.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\UL.dll.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\UL.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\UL.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Data.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.Web.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Newtonsoft.Json.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\System.Web.Http.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\EntityFramework.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Data.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.Web.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Newtonsoft.Json.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\System.Web.Http.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\EntityFramework.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\obj\Debug\UL.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\obj\Debug\UL.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\obj\Debug\UL.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\EntityFramework.SqlServer.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\ApplicationInsights.config
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\roslyn\csc.exe
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\roslyn\vbc.exe
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\UL.dll.config
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\UL.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\UL.pdb
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Data.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\EntityFramework.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\EntityFramework.SqlServer.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.AI.Web.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Newtonsoft.Json.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\System.Net.Http.Formatting.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\System.Web.Http.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\System.Web.Http.WebHost.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Data.pdb
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\EntityFramework.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\EntityFramework.SqlServer.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.AI.Web.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\Newtonsoft.Json.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\System.Net.Http.Formatting.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\System.Web.Http.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\bin\System.Web.Http.WebHost.xml
+C:\Users\Betul\Desktop\SatGitsinService\UL\obj\Debug\UL.csprojResolveAssemblyReference.cache
+C:\Users\Betul\Desktop\SatGitsinService\UL\obj\Debug\UL.dll
+C:\Users\Betul\Desktop\SatGitsinService\UL\obj\Debug\UL.pdb
+C:\Users\Betul\Documents\api\SatGitsinService\UL\obj\Debug\UL.csprojResolveAssemblyReference.cache
+C:\Users\Betul\Documents\api\SatGitsinService\UL\obj\Debug\UL.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\obj\Debug\UL.pdb
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\ApplicationInsights.config
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\roslyn\csc.exe
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\roslyn\vbc.exe
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\UL.dll.config
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\UL.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\UL.pdb
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Data.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\EntityFramework.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\EntityFramework.SqlServer.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.AI.Web.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Newtonsoft.Json.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\System.Net.Http.Formatting.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\System.Web.Http.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\System.Web.Http.WebHost.dll
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Data.pdb
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\EntityFramework.xml
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\EntityFramework.SqlServer.xml
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.AI.Web.xml
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\Newtonsoft.Json.xml
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\System.Net.Http.Formatting.xml
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\System.Web.Http.xml
+C:\Users\Betul\Documents\api\SatGitsinService\UL\bin\System.Web.Http.WebHost.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\ApplicationInsights.config
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\csc.exe
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\vbc.exe
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\UL.dll.config
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\UL.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\UL.pdb
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Data.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\EntityFramework.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\EntityFramework.SqlServer.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.Web.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Newtonsoft.Json.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\System.Net.Http.Formatting.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\System.Web.Http.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\System.Web.Http.WebHost.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Data.pdb
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\EntityFramework.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\EntityFramework.SqlServer.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.Web.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\Newtonsoft.Json.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\System.Net.Http.Formatting.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\System.Web.Http.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\bin\System.Web.Http.WebHost.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\obj\Debug\UL.csprojResolveAssemblyReference.cache
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\obj\Debug\UL.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\UL\obj\Debug\UL.pdb

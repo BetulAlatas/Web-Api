@@ -1,0 +1,52 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\Data.dll.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\Data.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\Data.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\obj\Debug\Data.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\obj\Debug\Data.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Betul\Desktop\SatGitsinService\Data\bin\Debug\Data.dll.config
+C:\Users\Betul\Desktop\SatGitsinService\Data\bin\Debug\Data.dll
+C:\Users\Betul\Desktop\SatGitsinService\Data\bin\Debug\Data.pdb
+C:\Users\Betul\Desktop\SatGitsinService\Data\bin\Debug\EntityFramework.dll
+C:\Users\Betul\Desktop\SatGitsinService\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Betul\Desktop\SatGitsinService\Data\bin\Debug\EntityFramework.xml
+C:\Users\Betul\Desktop\SatGitsinService\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Betul\Desktop\SatGitsinService\Data\obj\Debug\Data.dll
+C:\Users\Betul\Desktop\SatGitsinService\Data\obj\Debug\Data.pdb
+C:\Users\Betul\Desktop\SatGitsinService\Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Betul\Desktop\SatGitsinService\Data\bin\Debug\System.Web.Http.dll
+C:\Users\Betul\Desktop\SatGitsinService\Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Betul\Desktop\SatGitsinService\Data\bin\Debug\System.Web.Http.xml
+C:\Users\Betul\Desktop\SatGitsinService\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Betul\Documents\api\SatGitsinService\Data\bin\Debug\Data.dll.config
+C:\Users\Betul\Documents\api\SatGitsinService\Data\bin\Debug\Data.dll
+C:\Users\Betul\Documents\api\SatGitsinService\Data\bin\Debug\Data.pdb
+C:\Users\Betul\Documents\api\SatGitsinService\Data\bin\Debug\EntityFramework.dll
+C:\Users\Betul\Documents\api\SatGitsinService\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Betul\Documents\api\SatGitsinService\Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Betul\Documents\api\SatGitsinService\Data\bin\Debug\System.Web.Http.dll
+C:\Users\Betul\Documents\api\SatGitsinService\Data\bin\Debug\EntityFramework.xml
+C:\Users\Betul\Documents\api\SatGitsinService\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Betul\Documents\api\SatGitsinService\Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Betul\Documents\api\SatGitsinService\Data\bin\Debug\System.Web.Http.xml
+C:\Users\Betul\Documents\api\SatGitsinService\Data\obj\Debug\Data.dll
+C:\Users\Betul\Documents\api\SatGitsinService\Data\obj\Debug\Data.pdb
+C:\Users\Betul\Documents\api\SatGitsinService\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\Data.dll.config
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\Data.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\Data.pdb
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\EntityFramework.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\System.Web.Http.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\EntityFramework.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\bin\Debug\System.Web.Http.xml
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\obj\Debug\Data.dll
+C:\Users\Betul\Documents\Visual Studio 2015\Projects\SatGitsinService\Data\obj\Debug\Data.pdb
